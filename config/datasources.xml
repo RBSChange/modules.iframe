@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<datasources>
+  <datasource module="iframe" treecomponents="modules_generic/rootfolder,modules_generic/folder" listcomponents="modules_iframe/iframe" label="&amp;modules.iframe.bo.general.Module-Name;" icon="element_selection" />
+  <datasource name="pagecontent" module="iframe" treecomponents="modules_generic/rootfolder,modules_generic/folder" listcomponents="modules_iframe/iframe" label="&amp;modules.iframe.bo.general.Module-Name;" icon="element_selection" />
+</datasources>

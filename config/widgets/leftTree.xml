@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<behaviour>
+  <event type="select contextmenu" target="modules_generic_rootfolder modules_generic_folder" actions="create_ editPermissions">
+    <actiongroup name="create_" icon="add" actions="createIframe"/>
+  </event>
+  <datasource module="iframe" components="folder"/>
+  <columns>
+    <column ref="label" flex="5" label="Module-name" primary="true" properties="type"/>
+  </columns>
+</behaviour>

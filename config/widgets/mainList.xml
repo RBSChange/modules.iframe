@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<behaviour>
+	<event type="select contextmenu" target="modules_iframe_iframe" actions="| activate deactivated reactivate"/>
+
+	<datasource module="iframe" components="iframe"/>
+	
+	<columns>
+		<column ref="label" flex="7" label="Label" properties="type" />
+	</columns>
+</behaviour>

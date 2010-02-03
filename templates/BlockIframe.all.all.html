@@ -1,0 +1,2 @@
+<div tal:condition="iframeNotPublished" class="iframeNotPublished"><img change:icon="warning" alt="" /><p i18n:translate="&modules.iframe.bo.general.Iframe-not-published;"/></div>
+<iframe name="iframe-${iframe/getId}" tal:attributes="src iframe/getUrl; title iframe/getLabel; width iframe/getWidth; height iframe/getHeight; scrolling iframe/getScrolling" frameborder="no" tal:content="iframe/getText"/>

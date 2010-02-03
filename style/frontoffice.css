@@ -1,0 +1,15 @@
+.iframeNotPublished{
+	background: #ff8888;
+	color: red;
+	border: 1px solid red;
+	padding: 5px;
+	margin: 0;
+	font-weight: bold;
+}
+.iframeNotPublished img{
+	float: left;
+}
+.iframeNotPublished p{
+	padding: 5px 0;
+	margin: 0;
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization>
+  <entity id="modules-iframe-getpreferencesdocument">
+    <locale lang="fr">vous n'avez pas les permissions suffisantes pour effectuer l'action suivante : "Ouvrir les préférences"</locale>
+    <locale lang="en">you don't have the appropriate permission to perform this operation : "Open preferences window"</locale>
+    <locale lang="de">Sie haben nicht die Rechte folgende Aktion durchzuführen: "Präferenzen öffnen"</locale>
+  </entity>
+  <entity id="modules-iframe-editlocale">
+    <locale lang="fr">vous n'avez pas les permissions suffisantes pour effectuer l'action suivante : "Editer une locale"</locale>
+    <locale lang="en">you don't have the appropriate permission to perform this operation : "Edit a locale"</locale>
+    <locale lang="de">Sie haben nicht die Rechte folgende Aktion durchzuführen: "eine Lokale bearbeiten"</locale>
+  </entity>
+  <entity id="modules-iframe-order">
+    <locale lang="fr">vous n'avez pas les permissions suffisantes pour effectuer l'action suivante : "Modifier l'ordre des éléments"</locale>
+    <locale lang="en">you don't have the appropriate permission to perform this operation : "Sort out the elements"</locale>
+    <locale lang="de">Sie haben nicht die Rechte folgende Aktion durchzuführen: "Reihenfolge der Elemente ändern"</locale>
+  </entity>
+  <entity id="modules-iframe-editlocale">
+    <locale lang="fr">vous n'avez pas les permissions suffisantes pour effectuer l'action suivante : "Editer une locale"</locale>
+    <locale lang="en">you don't have the appropriate permission to perform this operation : "Edit a locale"</locale>
+  </entity>
+  <entity id="modules-iframe-enabled">
+    <locale lang="fr">vous n'avez pas les permissions suffisantes pour effectuer l'action suivante : "Accès au module"</locale>
+    <locale lang="en">you don't have the appropriate permission to perform this operation : "Access to the module"</locale>
+    <locale lang="de">Sie haben nicht die Rechte folgende Aktion durchzuführen: "Zugang zum Modul"</locale>
+  </entity>
+</localization>
