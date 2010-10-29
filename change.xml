@@ -4,13 +4,13 @@
   <type>change-module</type>
   <license>os</license>
   <repository>private</repository>
-  <version>3.0.4</version>
+  <version>3.0.5</version>
   <description>Iframe</description>
   <dependencies>
     <dependency>
       <name>change-lib/framework</name>
       <versions>
-        <version>3.0.4</version>
+        <version>3.0.5</version>
       </versions>
     </dependency>
   </dependencies>
