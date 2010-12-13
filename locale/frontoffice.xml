@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<localization>
-  <entity id="iframe-error">
-    <locale lang="fr">vous ne pouvez pas afficher la page de ce site</locale>
-    <locale lang="en">you can't display a page of this website</locale>
-    <locale lang="de">Sie dürfen die Seite dieser Webseite nicht anzeigen</locale>
-  </entity>
-</localization>

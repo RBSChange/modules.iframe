@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<i18n baseKey="m.iframe.frontoffice" lcid="de_DE">
+  <key id="iframe-error">Sie dürfen die Seite dieser Webseite nicht anzeigen</key>
+</i18n>

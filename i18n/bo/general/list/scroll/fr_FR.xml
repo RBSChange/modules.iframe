@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<i18n baseKey="m.iframe.bo.general.list.scroll" lcid="fr_FR">
+  <key id="auto">automatique (conseillé)</key>
+  <key id="yes">toujours</key>
+  <key id="no">jamais (déconseillé)</key>
+</i18n>

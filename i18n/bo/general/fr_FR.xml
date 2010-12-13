@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<i18n baseKey="m.iframe.bo.general" lcid="fr_FR">
+  <key id="module-name">iframe</key>
+  <key id="tree-root-name">iframe</key>
+  <key id="system-folder-name">iframe</key>
+  <key id="iframe-not-published">cette iframe n'est pas en statut publié, elle ne sera pas affichée sur le site</key>
+</i18n>
